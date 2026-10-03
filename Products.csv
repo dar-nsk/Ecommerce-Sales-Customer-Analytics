@@ -1,0 +1,11 @@
+product_id,product_name,category,sub_category,cost_price,selling_price
+P001,Wireless Mouse,Electronics,Accessories,450,699
+P002,Mechanical Keyboard,Electronics,Accessories,1800,2799
+P003,Laptop Stand,Office,Accessories,900,1499
+P004,USB-C Hub,Electronics,Accessories,1100,1799
+P005,Office Chair,Furniture,Chairs,5200,7999
+P006,Notebook Set,Stationery,Notebooks,180,299
+P007,Desk Lamp,Furniture,Lighting,700,1199
+P008,Water Bottle,Lifestyle,Kitchen,350,599
+P009,Backpack,Lifestyle,Bags,900,1499
+P010,Monitor 24-inch,Electronics,Monitors,6500,8999

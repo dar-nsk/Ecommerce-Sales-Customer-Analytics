@@ -1,0 +1,4 @@
+return_id,order_id,return_date,return_reason
+R001,O1015,2025-04-27,Damaged product
+R002,O1007,2025-02-18,Changed mind
+R003,O1021,2025-07-01,Wrong item
